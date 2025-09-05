@@ -1,1 +1,3 @@
-# TuAutoBolivar_Respaldo
+# alembic.ini
+alembic revision --autogenerate -m "init"
+alembic upgrade head

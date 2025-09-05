@@ -1,3 +1,5 @@
-# alembic.ini
+Generic single-database configuration.
+
+## iniciar alembric ##
 alembic revision --autogenerate -m "init"
 alembic upgrade head
